@@ -1,8 +1,4 @@
-/Local Settings/
-/My Documents/
-/NetHood/
-/PrintHood/
-/SendTo/
-/Templates/
-/Application Data/
+*d
 *.log
+*o
+*lib
